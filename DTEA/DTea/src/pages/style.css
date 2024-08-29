@@ -1,0 +1,15 @@
+.root{
+	-fx-background:  #F0F8FF;
+}
+
+
+.label {
+  float: center;
+  text-align: center;
+  width: 50%;
+}
+
+.registerbtn{
+	-fx-background-color:  #F0F8FF
+}
+
